@@ -1,4 +1,4 @@
-package com.alex.gimenes.rickandmortyappv2.ui.theme
+package com.alex.gimenes.core_ui.shape
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
