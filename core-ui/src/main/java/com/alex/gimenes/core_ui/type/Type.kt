@@ -1,4 +1,4 @@
-package com.alex.gimenes.rickandmortyappv2.ui.theme
+package com.alex.gimenes.core_ui.type
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
